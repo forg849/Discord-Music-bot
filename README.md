@@ -17,12 +17,5 @@ A simple music bot for Discord, written in Python.
 - FFmpeg
 
 ### Setup
-```bash
-pip install discord.py yt-dlp PyNaCl
-```
 
-Set your `DISCORD_TOKEN` environment variable and run:
-
-```bash
-python main.py
-```
+Set your `DISCORD_TOKEN` environment variable and run
